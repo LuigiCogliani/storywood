@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "124802101281",
+    "firebase_url": "https://storywood-34d40-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "storywood-34d40",
+    "storage_bucket": "storywood-34d40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124802101281:android:f62130d1055adbe8d63360",
+        "android_client_info": {
+          "package_name": "com.example.storywood_mvp01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124802101281-en701f3ecpbpbmadiimii0icjr7vtcaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw4Z0h5PCnYPbL2ZV5ilWtYYsl6ycG_bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124802101281-en701f3ecpbpbmadiimii0icjr7vtcaj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "124802101281-rd8a0q0c33sbkhtpr75bpqitnru954tk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.storywoodMvp01"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124802101281:android:c86f066266df9103d63360",
+        "android_client_info": {
+          "package_name": "com.storywood.storywood_mvp01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124802101281-en701f3ecpbpbmadiimii0icjr7vtcaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw4Z0h5PCnYPbL2ZV5ilWtYYsl6ycG_bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124802101281-en701f3ecpbpbmadiimii0icjr7vtcaj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "124802101281-rd8a0q0c33sbkhtpr75bpqitnru954tk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.storywoodMvp01"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
